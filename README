@@ -1,0 +1,7 @@
+This is a school project for my class CST205 in CSU Montery Bay.
+
+The project's goal is to have a person stand in front of the webcam and have their picture taken. 
+Once the picture is taken it is converted to grayscale and cropped so that only the face of the person fills the frame.
+The cropped photographed is stored in a folder where it is to be selected and then compared against a database of other people's
+cropped photos.  If the computer finds a photo that belongs to the person in the first photograph it will be displayed on the 
+screen.
